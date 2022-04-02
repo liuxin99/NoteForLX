@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "e8662a714e864209",
+    "type": "split",
+    "children": [
+      {
+        "id": "274e709384ccd75f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pre-Trained Models Past, Present and Future.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bd1c4b052abd77c",
+    "type": "split",
+    "children": [
+      {
+        "id": "98ab63976ea1a52f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d5de2488e7e926d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec3496f2ec83278e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f320867845a5d935",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc6e3effb6e32de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68691401b609add1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pre-Trained Models Past, Present and Future.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "274e709384ccd75f",
+  "lastOpenFiles": [
+    "Pre-Trained Models Past, Present and Future.md"
+  ]
+}
