@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "274e709384ccd75f",
+        "id": "54c99e2698ed0af5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pre-Trained Models Past, Present and Future.md",
+            "file": "Bert理解.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-Trained Models Past, Present and Future.md",
+                "file": "Bert理解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "274e709384ccd75f",
+  "active": "54c99e2698ed0af5",
   "lastOpenFiles": [
-    "Pre-Trained Models Past, Present and Future.md"
+    "Bert理解.md",
+    "动手学深度学习.md",
+    "论文阅读/Pre-Trained Models Past, Present and Future.md"
   ]
 }
