@@ -7,8 +7,12 @@
         "id": "ba011526ccbed052",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "论文阅读/Data Augmentation Approaches in NLP.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f320867845a5d935",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "论文阅读/Data Augmentation Approaches in NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +90,14 @@
   },
   "active": "ba011526ccbed052",
   "lastOpenFiles": [
+    "论文阅读/Data Augmentation Approaches in NLP.md",
+    "论文阅读/pictures/DataAugmentation_fig11.png",
+    "论文阅读/pictures/DataAugmentation_Thesauruses.png",
+    "论文阅读/pictures/DataAugmentation_fig5.png",
+    "Pasted image 20220605184310.png",
+    "Pasted image 20220605183822.png",
+    "论文阅读/Pre-Trained Models Past, Present and Future.md",
     "动手学深度学习.md",
-    "Bert理解.md",
-    "论文阅读/Pre-Trained Models Past, Present and Future.md"
+    "Bert理解.md"
   ]
 }
