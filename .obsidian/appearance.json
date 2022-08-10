@@ -1,5 +1,7 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 22,
   "theme": "moonstone",
-  "translucency": false
+  "translucency": false,
+  "textFontFamily": "Times New Roman,SimSun",
+  "cssTheme": "myThemes"
 }
